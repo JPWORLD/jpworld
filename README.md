@@ -38,7 +38,6 @@ I have proficiency in multiple programming languages and frameworks, including P
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JPWORLD&show_icons=true&theme=radical&hide_border=true" alt="JPWORLD GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPWORLD&theme=radical&hide_border=true" alt="JPWORLD Streak Stats">
 </p>
 
 ---

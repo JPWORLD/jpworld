@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi there, I'm Jai Prakash! 👋</h1>
 <p align="center">
   🚀 <strong>Product Developer | AI Enthusiast | Cloud & DevOps Advocate</strong> ☁️
@@ -16,6 +17,8 @@
 🔹 Specializing in **AWS, CI/CD, DevOps, NLP & Chatbot Development**  
 🔹 100+ Repositories Contributed 🚀  
 
+I'm a skilled developer with a passion for creating innovative products and solutions. With a deep interest in AI and cloud technologies, I have honed my expertise in AWS, CI/CD, and DevOps practices. I enjoy contributing to open-source projects and continuously expanding my knowledge in various domains.
+
 ---
 
 ### 🔧 **Tech Stack & Tools**
@@ -27,6 +30,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+I have proficiency in multiple programming languages and frameworks, including Python, Node.js, and React. My expertise extends to containerization with Docker, orchestration with Kubernetes, and cloud services with AWS. I am also experienced in using GitHub Actions for CI/CD pipelines and MongoDB for database management. Additionally, I specialize in building scalable microservices with Java Spring Boot.
 
 ---
 
@@ -46,3 +52,4 @@
 ---
 
 ✨ **"Code like a hacker, debug like a detective!"** 🔥
+```

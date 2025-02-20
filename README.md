@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 **About Me**
-🔹 **Product Developer @ [SieServices](https://github.com/SieServices)**  
+🔹 **Product Developer @ [BitMenders](https://github.com/bitmenders)**  
 🔹 Passionate about **Product Development, AI, and Cloud Solutions**  
 🔹 Specializing in **AWS, CI/CD, DevOps, NLP & Chatbot Development**  
 🔹 100+ Repositories Contributed 🚀  
@@ -45,8 +45,8 @@ I have proficiency in multiple programming languages and frameworks, including P
 
 ### 🌎 **Let's Connect!**
 🔗 [GitHub](https://github.com/JPWORLD)  
-📧 Email: *YourEmail@example.com*  
-💼 **SieServices** Contributor  
+📧 Email: *bitmenders@gmail.com*  
+💼 **BitMenders** Contributor  
 
 ---
 

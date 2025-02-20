@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi there, I'm Jai Prakash! 👋</h1>
 <p align="center">
   🚀 <strong>Product Developer | AI Enthusiast | Cloud & DevOps Advocate</strong> ☁️
@@ -52,4 +51,3 @@ I have proficiency in multiple programming languages and frameworks, including P
 ---
 
 ✨ **"Code like a hacker, debug like a detective!"** 🔥
-```
